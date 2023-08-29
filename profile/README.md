@@ -1,8 +1,10 @@
 # uhleloX
 
-![uhleloX Logo]()
+![uhleloX Logo](https://github.com/uhleloX/.github/blob/main/assets/uhlelox-logo.png)
 
-**Description:** A new CMS
+A modern PHP Content Management System.
+
+Built on PHP 8+, jQuery 3+ and Bootstrap 5+, it provides a lightweight and powerful CMS experience to powerusers. A number of core extensions add features such as Media Editor, Text Editor (both CKEditor and CodeMirror) and Media Browsing.
 
 **Website:** [uhlelox.com](https://www.uhlelox.com)
 

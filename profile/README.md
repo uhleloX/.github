@@ -12,7 +12,7 @@ Built on PHP 8+, jQuery 3+ and Bootstrap 5+, it provides a lightweight and power
 
 ## Repositories
 
-1. [uhleloX](https://github.com/uhleloX/uhleloX) - A modern PHP Content Management System
+1. [uhleloX](https://github.com/uhleloX/uhleloX) - The Core Content Management System
 2. [api](https://github.com/uhleloX/api) - uhleloX API Repository
 3. [x-ck-editor](https://github.com/uhleloX/x-ck-editor) - CKEditor Extension for uhleloX
 4. [x-custom-types](https://github.com/uhleloX/x-custom-types) - Custom Types extension for uhleloX
